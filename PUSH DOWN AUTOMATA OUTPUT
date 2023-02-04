@@ -1,0 +1,15 @@
+Simulation of Pushdown Automata for 0n1n
+Enter a string : 0000011111
+Stack	Input
+Z	        0000011111
+Z0	        000011111
+Z00	        00011111
+Z000	0011111
+Z0000	011111
+Z00000	11111
+Z0000	1111
+Z000	111
+Z00	        11
+Z0	        1
+Z	
+String accepted.............
